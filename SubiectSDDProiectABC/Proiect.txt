@@ -1,0 +1,5 @@
+1,Statistica,abb,9,10,90
+2,Info,abb,6,15,70
+3,Matematica,dddc,9,9,60
+4,PAW,qqq,3,5,100
+5,POO,www,50,100,10
